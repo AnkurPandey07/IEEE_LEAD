@@ -1,5 +1,5 @@
 let index = 0;
-let msg = '𒆜𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓣𝓸 𝓜𝔂 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸𒆜'; 
+let msg = '᚛W𝖊ɭc𐍉ϻ𝖊 T𐍉 M𝕪 Ƥ𐍉rτfolΐo᚜'; 
 let rate = 150;
 function display() {
   if (index < msg.length) {
